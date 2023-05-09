@@ -1,6 +1,11 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+/*
+ * File: main.h
+ * by: noisefunny
+ */
+
 #include <stdio.h>
 #include <sys/types.h>
 #include <sys/stat.h>
