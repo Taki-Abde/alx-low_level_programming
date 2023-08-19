@@ -4,8 +4,8 @@
 * main - Generates and prints passwords for crackme5 exe
 * @argc: num of arguments supplied to prog
 * @argv: An array of pointers to the arguments
-* by: laila
-* Return: 0
+* Made by MEGATRON
+* Return: ZERO
 */
 
 int main(__silent int argc, char *argv[])
