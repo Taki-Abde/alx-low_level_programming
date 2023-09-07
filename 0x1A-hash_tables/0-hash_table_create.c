@@ -3,7 +3,7 @@
 /**
 * hash_table_create - create a hashtable
 * @size: size of hash table to create
-* Made by MEGATRON
+* Made by abderrahim
 * Return: pointer to the newly created a table
 */
 

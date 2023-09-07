@@ -9,7 +9,7 @@
 #include "data.h"
 #include "100-init.h"
 
-/* Made by ABDERRAHIM */
+/* Made by abderrahim */
 
 #define table_t hash_table_t
 #define node_t hash_node_t
